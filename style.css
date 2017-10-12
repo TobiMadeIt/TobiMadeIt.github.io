@@ -1,0 +1,25 @@
+body{
+  background-color: hsl(180, 24%, 12%);
+}
+
+h1{
+  text-align: center;
+  font-size: 6rem;
+  font-family: monospace;
+  color: white;
+  margin-bottom: 0;
+}
+
+.coming-soon{
+    position: relative;
+    top:30%;
+}
+
+p{
+  text-align: center;
+  font-size: 2rem;
+  font-family: monospace;
+  color: lightgray;
+
+
+}
